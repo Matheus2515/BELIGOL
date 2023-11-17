@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 767px;
+    font-family: Roboto Mono;
+    background: linear-gradient(45deg, #daa520, #000,#daa520 ) ;
+    background-repeat: no-repeat;
+
+}
+
+body video{
+    width: 500px;
+    border-radius: 35px;
+    margin: 50px;
+}
+body label{
+    text-transform: uppercase;
+    color: white;
+
+}
+body div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    
+}
